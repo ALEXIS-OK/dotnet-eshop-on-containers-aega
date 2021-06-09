@@ -1,0 +1,7 @@
+Una version de archivos diferentes para la clase de desarrollo de apps.
+
+
+Verificacion de los 3 comandos utilizados en git.
+
+git add --all
+git commit
