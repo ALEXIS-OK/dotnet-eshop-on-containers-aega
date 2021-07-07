@@ -53,6 +53,11 @@ tests-results/
 [Rr]eleasePS/
 dlldata.c
 
+# Ejemplo de clase oara Desarrollo de aplicaciones empresariales...
+*.yaml*
+
+
+
 # DNX
 project.lock.json
 artifacts/
